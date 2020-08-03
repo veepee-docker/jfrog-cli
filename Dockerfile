@@ -12,7 +12,7 @@
 # OTHER  TORTIOUS ACTION,  ARISING OUT  OF  OR IN  CONNECTION WITH  THE USE  OR
 # PERFORMANCE OF THIS SOFTWARE.
 
-FROM golang:1.14-alpine
+FROM golang:1.14-alpine AS build
 
 ARG JFROG_CLI_VERSION="1.38.2"
 
@@ -31,6 +31,8 @@ FROM alpine:3.12
 
 COPY --from=build /go/src/github.com/jfrog/jfrog-cli/jfrog-cli \
                   /usr/bin/jfrog-cli
+
+RUN ln -s /usr/bin/jfrog-cli /usr/bin/jfrog
 
 CMD [ "jfrog-cli", "--version" ]
 
