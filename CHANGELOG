@@ -1,0 +1,6 @@
+# 1.0.0 (2020-08-03)
+
+
+### Bug Fixes
+
+* docker build ([78682b0](https://git.vptech.eu/veepee/vptech/sre/iac/docker-images/jfrog-cli/commit/78682b0979e59e97cfa4bc9ce4f313ce836f89c9))
