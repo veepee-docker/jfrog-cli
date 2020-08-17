@@ -1,3 +1,15 @@
+# [1.1.0](https://git.vptech.eu/veepee/vptech/sre/iac/docker-images/jfrog-cli/compare/1.0.0...1.1.0) (2020-08-17)
+
+
+### Bug Fixes
+
+* name tag name on GitHub ([8a4565f](https://git.vptech.eu/veepee/vptech/sre/iac/docker-images/jfrog-cli/commit/8a4565f3ac8420ba8aa33cd4925cffbb39ace41a))
+
+
+### Features
+
+* upgrade ([96e9fb3](https://git.vptech.eu/veepee/vptech/sre/iac/docker-images/jfrog-cli/commit/96e9fb3b249c0d1f68114a39a44da4e9072cf45e))
+
 # 1.0.0 (2020-08-03)
 
 
