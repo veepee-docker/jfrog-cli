@@ -14,7 +14,7 @@
 
 FROM golang:1.14-alpine AS build
 
-ARG JFROG_CLI_VERSION="1.38.2"
+ARG JFROG_CLI_VERSION="1.39.0"
 
 RUN apk add --no-cache --quiet \
       ca-certificates \
