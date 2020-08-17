@@ -24,7 +24,7 @@ RUN mkdir -p /go/src/github.com/jfrog && \
     cd /go/src/github.com/jfrog && \
     git clone https://github.com/jfrog/jfrog-cli && \
     cd /go/src/github.com/jfrog/jfrog-cli && \
-    git checkout ${JFROG_CLI_VERSION} && \
+    git checkout v${JFROG_CLI_VERSION} && \
     sh build/build.sh jfrog-cli
 
 FROM alpine:3.12
