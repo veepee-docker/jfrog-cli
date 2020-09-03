@@ -1,3 +1,16 @@
+## [1.1.1](https://git.vptech.eu/veepee/vptech/sre/iac/docker-images/jfrog-cli/compare/1.1.0...1.1.1) (2020-09-03)
+
+
+### Bug Fixes
+
+* update 1.39 to 1.39.3 ([c188f80](https://git.vptech.eu/veepee/vptech/sre/iac/docker-images/jfrog-cli/commit/c188f80eb5835224abd82efc4237dbd4b4306dd5))
+
+
+### Chores
+
+* **deps:** update dependency veepee/vptech/sre/iac/ci-cd/docker-build to v4.2.3 ([6661322](https://git.vptech.eu/veepee/vptech/sre/iac/docker-images/jfrog-cli/commit/66613221e69bbd4e35e75052b1d4c654f33747e7))
+* **deps:** update dependency veepee/vptech/sre/iac/ci-cd/docker-lint to v2.0.1 ([667b2dd](https://git.vptech.eu/veepee/vptech/sre/iac/docker-images/jfrog-cli/commit/667b2ddba7eae81cc846491b78511c6458c34dc8))
+
 # [1.1.0](https://git.vptech.eu/veepee/vptech/sre/iac/docker-images/jfrog-cli/compare/1.0.0...1.1.0) (2020-08-17)
 
 
