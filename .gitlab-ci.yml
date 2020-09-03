@@ -32,9 +32,9 @@ public:1.38.4:
     DOCKER_BUILD_ARGS: --build-arg JFROG_CLI_VERSION=1.38.4
     TAG: 1.38.4
     
-public:1.39.0:
+public:1.39.3:
   extends: .publish-public:docker
   variables:
-    DOCKER_BUILD_ARGS: --build-arg JFROG_CLI_VERSION=1.39.0
-    TAG: 1.39.0
+    DOCKER_BUILD_ARGS: --build-arg JFROG_CLI_VERSION=1.39.3
+    TAG: 1.39.3
 ...
