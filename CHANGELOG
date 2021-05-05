@@ -1,3 +1,22 @@
+## [1.1.2](https://git.vptech.eu/veepee/vptech/sre/iac/docker-images/jfrog-cli/compare/1.1.1...1.1.2) (2021-05-05)
+
+
+### Bug Fixes
+
+* update jfrog cli to latest version ([3395b2d](https://git.vptech.eu/veepee/vptech/sre/iac/docker-images/jfrog-cli/commit/3395b2df707d4be2517c209c09f65899e52e6361))
+
+
+### Chores
+
+* **deps:** update alpine docker tag to v3.13 ([55b6dd0](https://git.vptech.eu/veepee/vptech/sre/iac/docker-images/jfrog-cli/commit/55b6dd09b7c1785cfa11adcff708e33548a5b49f))
+* **deps:** update dependency veepee/vptech/sre/iac/ci-cd/docker-build to v4.3.3 ([fde79f2](https://git.vptech.eu/veepee/vptech/sre/iac/docker-images/jfrog-cli/commit/fde79f2d956773689b26f3f9e3cae5b33a2b1147))
+* **deps:** update dependency veepee/vptech/sre/iac/ci-cd/docker-lint to v2.0.2 ([aa4268d](https://git.vptech.eu/veepee/vptech/sre/iac/docker-images/jfrog-cli/commit/aa4268df91ada9c19fba21403c6328668bf641fc))
+* **deps:** update dependency veepee/vptech/sre/iac/ci-cd/markdown-lint to v1.2.2 ([cd255cd](https://git.vptech.eu/veepee/vptech/sre/iac/docker-images/jfrog-cli/commit/cd255cdab038e024fb642ae8e99106dc3c434d92))
+* **deps:** update dependency veepee/vptech/sre/iac/ci-cd/semantic-release to v2.12.0 ([a9692dd](https://git.vptech.eu/veepee/vptech/sre/iac/docker-images/jfrog-cli/commit/a9692dd81d63dc83c841681505d3ea680ac2b14d))
+* **deps:** update dependency veepee/vptech/sre/iac/ci-cd/semantic-release to v3.3.0 ([e8bf6f0](https://git.vptech.eu/veepee/vptech/sre/iac/docker-images/jfrog-cli/commit/e8bf6f0ada8ec95b71fb617ab778c3adf57e25be))
+* **deps:** update golang docker tag to v1.15 ([f67fcb2](https://git.vptech.eu/veepee/vptech/sre/iac/docker-images/jfrog-cli/commit/f67fcb207ba1ad695b2ae7297b7cf4f4df47717f))
+* **deps:** update golang docker tag to v1.16 ([307678a](https://git.vptech.eu/veepee/vptech/sre/iac/docker-images/jfrog-cli/commit/307678a2b1019c72a3c799c964aefce77165786c))
+
 ## [1.1.1](https://git.vptech.eu/veepee/vptech/sre/iac/docker-images/jfrog-cli/compare/1.1.0...1.1.1) (2020-09-03)
 
 
