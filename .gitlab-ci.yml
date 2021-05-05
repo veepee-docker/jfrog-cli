@@ -27,12 +27,12 @@ variables:
   PUBLIC: 'true'
   SEMANTIC_CONFIG_FILE: changelog
 
-public:1.38.4:
+public:1.47.2:
   extends: .publish-public:docker
   variables:
-    DOCKER_BUILD_ARGS: --build-arg JFROG_CLI_VERSION=1.38.4
-    TAG: 1.38.4
-    
+    DOCKER_BUILD_ARGS: --build-arg JFROG_CLI_VERSION=1.47.2
+    TAG: 1.47.2
+
 public:1.39.3:
   extends: .publish-public:docker
   variables:
